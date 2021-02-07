@@ -12,6 +12,6 @@ I did sucessfully add an image with alt
 
 Div classes were looking great until I failed at CSS. 
 
-There might be too much going on in the header. My style sheet did not link. 
+There might be too much going on in the head tag. My style sheet did not link. 
 
 An overall work in progress.
