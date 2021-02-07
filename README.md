@@ -8,7 +8,7 @@ Bootstrap might have been a poor choice, as I didn't fully understand it.
 
 Couldn't figure out how to get my buttons/navigation bar to work properly. 
 
-I did sucessfully add and image with alt 
+I did sucessfully add an image with alt 
 
 Div classes were looking great until I failed at CSS. 
 
